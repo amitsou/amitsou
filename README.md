@@ -24,6 +24,6 @@ Tech enthusiast specializing in ML engineering, data science, and full-stack dev
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/amitsou"><img src="https://github-readme-stats.vercel.app/api?username=amitsou&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="amitsou's GitHub stats" /></a>
+<a href="http://www.github.com/amitsou"><img src="https://github-readme-stats.vercel.app/api?username=amitsou&show_icons=true&hide=commits,prs,issues,contribs&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="amitsou's GitHub stats" /></a>
 
 <a href="https://github.com/amitsou" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitsou&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
