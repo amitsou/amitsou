@@ -1,7 +1,7 @@
 Hi 👋 My name is Alexandros Mitsou
 ==================================
 
-PhD candidate and Software Engineer
+PhD candidate and Data Scientist @EY
 -----------------------------------
 
 Tech enthusiast specializing in ML engineering, data science, and full-stack development. With a passion for crafting elegant solutions and leveraging data-driven insights, I'm here to innovate, collaborate, and make a difference. Let's build something awesome together! 🚀
